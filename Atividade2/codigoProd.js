@@ -26,7 +26,7 @@ switch (opção) {
     console.log("Produto: Refrigerante");
     console.log("Valor total: R$ " + qtd * 8.0);
     break;
-  case 1:
+  case 6:
     console.log("Produto: Suco de laranja");
     console.log("Valor total: R$ " + qtd * 13.0);
     break;
