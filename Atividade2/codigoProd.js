@@ -32,5 +32,6 @@ switch (opção) {
     break;
 
   default:
+    console.log("error");
     break;
 }
